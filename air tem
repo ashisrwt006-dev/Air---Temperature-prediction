@@ -1,0 +1,17 @@
+# Air Temperature Prediction using LSTM, GRU, CNN-LSTM
+
+## Description
+This project predicts air temperature using deep learning models like LSTM, GRU, and CNN-LSTM.
+
+## Features
+- Time series forecasting
+- RMSE evaluation
+- Multiple model comparison
+
+## Tools Used
+- Python
+- TensorFlow/Keras
+- NumPy, Pandas
+
+## Results
+Achieved RMSE of ~1.2
